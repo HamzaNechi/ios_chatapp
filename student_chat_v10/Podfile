@@ -1,0 +1,21 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'student_chat' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+	
+  pod 'GoogleSignIn'
+
+  # Pods for student_chat
+
+  target 'student_chatTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'student_chatUITests' do
+    # Pods for testing
+  end
+
+end
