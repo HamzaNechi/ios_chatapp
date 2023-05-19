@@ -1,5 +1,4 @@
-# ios_chatapp
-**Description du projet "StudentChat" pour la faculté ESPRIT :**
+# StudentChat
 
 StudentChat est un réseau social conçu spécifiquement pour les étudiants de la faculté ESPRIT. Il fournit une plateforme interactive où les étudiants peuvent se connecter, échanger des idées, collaborer sur des projets et interagir avec leurs pairs.
 
